@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="escribe_tu_nombre">Escribe tu nombre</string>
+</resources>
